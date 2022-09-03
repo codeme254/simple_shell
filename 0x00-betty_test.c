@@ -5,7 +5,7 @@
   *Return: 0 success
   */
 
-int main()
+int main(void)
 {
 	printf("My own Unix shell\n");
 	return (0);
